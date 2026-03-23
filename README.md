@@ -42,7 +42,7 @@ Built an end-to-end data pipeline to analyze Formula 1 race strategy and driver 
 - Transformed data using dbt into analytics-ready datasets
 - Analyzed tyre performance, stint strategies, and driver consistency
 
-👉 [View Project](ใส่ลิงก์ repo ของเธอ)
+👉 [View Project](https://github.com/Perpasit/f1-tyre-strategy-pipeline)
 
 ---
 
