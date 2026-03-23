@@ -56,8 +56,8 @@ Built an end-to-end data pipeline to analyze Formula 1 race strategy and driver 
 
 ## 📫 Contact
 
-- LinkedIn: ([https://www.linkedin.com/in/pasit-winyan-17879b32a/])
-- Email: ([pasit.winy@gmail.com])
+- LinkedIn: https://www.linkedin.com/in/pasit-winyan-17879b32a/
+- Email: pasit.winy@gmail.com
 
 ---
 
